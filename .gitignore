@@ -1,3 +1,6 @@
+publications/citations.txt
+publications/publications.bib
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
