@@ -47,7 +47,7 @@ header_pages:
   - content/about.md
   - content/blog.md
   - content/group.md
-  - content/publications.md
+  - publications/publications.md
   - content/software.md
 
 # Build settings

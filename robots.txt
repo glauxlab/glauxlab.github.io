@@ -3,3 +3,4 @@ Disallow: /contact/
 Disallow: /content/
 Disallow: /downloads/
 Disallow: /images/
+Disallow: /publications/
